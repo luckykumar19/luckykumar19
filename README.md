@@ -4,13 +4,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luckykumar19&label=Profile%20views&color=0e75b6&style=flat" alt="luckykumar19" /> </p>
 
-- 🔭 I’m currently working on **Ecommerce Web-site**
 
-- 🌱 I’m currently learning **Wordpress, JavaScript**
+- 🌱 I’m currently learning **Rapid7**
 
 - 💬 Ask me about **Cyber Security and IOT**
 
-- 📫 How to reach me **apsluckykumar@gmail.com**
+- 📫 How to reach me **luckykumar200221@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
